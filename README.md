@@ -1,4 +1,5 @@
 # MySelectShop
+![2025-09-24 14-25-29 (1)](https://github.com/user-attachments/assets/aec1abc2-cf5c-4d97-b418-23b0c6f51a62)
 
 Spring Boot 기반의 관심 상품 관리 및 가격 비교 애플리케이션
 
